@@ -133,7 +133,7 @@ const Nav = () => {
                   onClick={() => {
                     signIn(provider.id);
                   }}
-                  className='black_btn'
+                  className='green_btn'
                 >
                   Sign in
                 </button>
