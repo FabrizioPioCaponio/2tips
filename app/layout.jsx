@@ -2,7 +2,6 @@ import Nav from '@components/Nav';
 import Provider from '@components/Provider';
 import '@styles/globals.css';
 import Logo from '@components/Logo'
-import Loading from '@components/Loading';
 
 
 export const metadata = {
@@ -15,7 +14,6 @@ const RootLayout = ({children}) => {
     <html lang='it'>
         <body>
           <Provider>
-          <Loading/>
           <div className='main '>
                 <div className=''/>
             </div>

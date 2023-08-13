@@ -1,5 +1,4 @@
 import Feed from "@components/Feed"
-import Loading from "@components/Loading"
 
 const Home = () => {
   return (
